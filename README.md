@@ -86,6 +86,7 @@ It demonstrates the importance of SQL as a fundamental tool for data analysis an
 ## File Included
 DecodeLabs-Project-3-SQL-Data-Analysis/
 │
+
 ├── [README.md](README.md)
 
 
@@ -94,22 +95,20 @@ DecodeLabs-Project-3-SQL-Data-Analysis/
 
 ├── Dataset/
 
-
 │   └── [Sales_Dataset.csv](Sales_Dataset.csv)
 
-
 │
-
 
 ├── SQL_Scripts/
 
 
 │   └── [SQL_Analysis.sql](SQL_Analysis.sql)
 
-
 │
+
 └── Results/
-    └── [Query_Excecution.png](Query_Excecution.png)/[Referrals.png](Referrals.png)
+   
+└── [Query_Excecution.png](Query_Excecution.png)/[Referrals.png](Referrals.png)
 
 #
 
