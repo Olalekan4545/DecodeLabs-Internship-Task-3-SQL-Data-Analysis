@@ -86,16 +86,30 @@ It demonstrates the importance of SQL as a fundamental tool for data analysis an
 ## File Included
 DecodeLabs-Project-3-SQL-Data-Analysis/
 │
-├── README.md
+├── [README.md](README.md)
+
+
 │
+
+
 ├── Dataset/
-│   └── Sales_Order_Dataset.csv
+
+
+│   └── [Sales_Dataset.csv](Sales_Dataset.csv)
+
+
 │
+
+
 ├── SQL_Scripts/
-│   └── SQL_Analysis.sql
+
+
+│   └── [SQL_Analysis.sql](SQL_Analysis.sql)
+
+
 │
 └── Results/
-    └── Query_Results/
+    └── [Query_Excecution.png](Query_Excecution.png)/[Referrals.png](Referrals.png)
 
 #
 
@@ -110,7 +124,7 @@ DecodeLabs-Project-3-SQL-Data-Analysis/
 
 ####  How to Use
 
-1. Download  [`kms_query_solution.sql`](kms_query_solution.sql) file.
+1. Download  [`SQL_Analysis.sql`](SQL_Analysis.sql) file.
 2. Open it in
  - Microsoft SQL Server 2022 Express (free):*  
   [Download SQL Server 2022 Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
